@@ -1,4 +1,4 @@
-# firebase-auth
+# 食農easy-go
 
 ## Project setup
 ```
